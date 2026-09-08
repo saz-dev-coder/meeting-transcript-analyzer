@@ -6,7 +6,7 @@
 Our application solves the post-meeting operational bottleneck by combining context-aware AI text extraction with real-time multi-client workflow tracking and live data analytics visualizations.
 
 ### 🎥 Live Submission Deliverables
-* **Live Production URL:** https://bolt.host
+* **Live Production URL:** https://project-build-95ee.bolt.host
 * **Video Presentation Pitch:** [PASTE YOUR LOOM / VIDEO LINK HERE ONCE RECORDED]
 
 ## ⚡ Core Enterprise Capabilities
