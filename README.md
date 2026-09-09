@@ -7,7 +7,7 @@ Our application solves the post-meeting operational bottleneck by combining cont
 
 ### 🎥 Live Submission Deliverables
 * **Live Production URL:** https://project-build-95ee.bolt.host
-* **Video Presentation Pitch:** [PASTE YOUR LOOM / VIDEO LINK HERE ONCE RECORDED]
+* **Video Presentation Pitch:** https://www.screendub.io/v/SrpKLWFZXh2y
 
 ## ⚡ Core Enterprise Capabilities
 1. **AI Transcript Processor:** Context-aware entity extraction featuring absolute calendar deadline normalization, summary generation separating decisions from topics, and custom database schema structuring.
